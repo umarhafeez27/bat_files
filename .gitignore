@@ -1,0 +1,12 @@
+# This folder is used to point to exe files to be added to windows path as well
+*.exe
+/META-INF/
+*.dll
+*.txt
+*.zip
+*.hlp
+# from another project
+start_shell.bat
+rb_dir.bat
+true
+false
